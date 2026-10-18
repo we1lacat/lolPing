@@ -6,9 +6,9 @@
   "description": "League of Legends style ping wheel for your Windows desktop",
   "author": "Danrui Meng (https://github.com/darrenprx)",
   "license": "MIT",
-  "homepage": "https://github.com/darrenprx/lolPing#readme",
-  "repository": { "type": "git", "url": "https://github.com/darrenprx/lolPing.git" },
-  "bugs": "https://github.com/darrenprx/lolPing/issues",
+  "homepage": "https://github.com/we1lacat/lolPing#readme",
+  "repository": { "type": "git", "url": "https://github.com/we1lacat/lolPing.git" },
+  "bugs": "https://github.com/we1lacat/lolPing/issues",
   "main": "out/main/index.js",
   "scripts": {
     "dev": "electron-vite dev",

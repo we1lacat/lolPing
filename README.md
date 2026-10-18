@@ -10,13 +10,13 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/darrenprx/lolPing/releases/latest"><b>Download for Windows</b></a>
+  <a href="https://github.com/we1lacat/lolPing/releases/latest"><b>Download for Windows</b></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/darrenprx/lolPing/actions/workflows/ci.yml"><img src="https://github.com/darrenprx/lolPing/actions/workflows/ci.yml/badge.svg" alt="CI"></a>
-  <a href="https://github.com/darrenprx/lolPing/releases/latest"><img src="https://img.shields.io/github/v/release/darrenprx/lolPing" alt="Latest release"></a>
-  <a href="LICENSE"><img src="https://img.shields.io/github/license/darrenprx/lolPing" alt="MIT license"></a>
+  <a href="https://github.com/we1lacat/lolPing/actions/workflows/ci.yml"><img src="https://github.com/we1lacat/lolPing/actions/workflows/ci.yml/badge.svg" alt="CI"></a>
+  <a href="https://github.com/we1lacat/lolPing/releases/latest"><img src="https://img.shields.io/github/v/release/we1lacat/lolPing" alt="Latest release"></a>
+  <a href="LICENSE"><img src="https://img.shields.io/github/license/we1lacat/lolPing" alt="MIT license"></a>
 </p>
 
 <p align="center"><img src="docs/media/demo.gif" width="880" alt="An app freezes with a not-responding dialog, and the ping wheel drops three Enemy Missing pings on it"></p>
@@ -27,7 +27,7 @@ Pings show up in whole-screen capture, so friends watching your Discord or OBS s
 
 ### Windows
 
-1. Download `lolPing-Setup-<version>.exe` from the [latest release](https://github.com/darrenprx/lolPing/releases/latest).
+1. Download `lolPing-Setup-<version>.exe` from the [latest release](https://github.com/we1lacat/lolPing/releases/latest).
 2. Run it. The installer isn't code-signed, so Windows SmartScreen may say "Windows protected your PC". Select **More info**, then **Run anyway**.
 3. lolPing opens its settings and moves to the tray. Hold Alt and drag anywhere to ping.
 

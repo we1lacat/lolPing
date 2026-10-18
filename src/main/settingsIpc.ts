@@ -7,7 +7,7 @@ import type { Platform } from '../shared/platform';
 import type { Settings } from '../shared/settings';
 import type { SettingsStore } from './settingsStore';
 
-const PROJECT_URL = 'https://github.com/darrenprx/lolPing';
+const PROJECT_URL = 'https://github.com/we1lacat/lolPing';
 
 export interface SettingsIpcDeps {
   store: SettingsStore;

@@ -10,13 +10,13 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/darrenprx/lolPing/releases/latest"><b>下载 Windows 版</b></a>
+  <a href="https://github.com/we1lacat/lolPing/releases/latest"><b>下载 Windows 版</b></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/darrenprx/lolPing/actions/workflows/ci.yml"><img src="https://github.com/darrenprx/lolPing/actions/workflows/ci.yml/badge.svg" alt="CI"></a>
-  <a href="https://github.com/darrenprx/lolPing/releases/latest"><img src="https://img.shields.io/github/v/release/darrenprx/lolPing" alt="最新版本"></a>
-  <a href="LICENSE"><img src="https://img.shields.io/github/license/darrenprx/lolPing" alt="MIT 许可证"></a>
+  <a href="https://github.com/we1lacat/lolPing/actions/workflows/ci.yml"><img src="https://github.com/we1lacat/lolPing/actions/workflows/ci.yml/badge.svg" alt="CI"></a>
+  <a href="https://github.com/we1lacat/lolPing/releases/latest"><img src="https://img.shields.io/github/v/release/we1lacat/lolPing" alt="最新版本"></a>
+  <a href="LICENSE"><img src="https://img.shields.io/github/license/we1lacat/lolPing" alt="MIT 许可证"></a>
 </p>
 
 <p align="center"><img src="docs/media/demo.zh-CN.gif" width="880" alt="一个程序卡死弹出“未响应”对话框，信号轮盘在上面连发三个“敌人消失”信号"></p>
@@ -27,7 +27,7 @@
 
 ### Windows
 
-1. 从[最新版本](https://github.com/darrenprx/lolPing/releases/latest)下载 `lolPing-Setup-<版本号>.exe`。
+1. 从[最新版本](https://github.com/we1lacat/lolPing/releases/latest)下载 `lolPing-Setup-<版本号>.exe`。
 2. 运行安装程序。安装程序没有代码签名，Windows SmartScreen 可能会提示“Windows 已保护你的电脑”：点击**更多信息**，再点**仍要运行**。
 3. lolPing 会打开设置窗口并常驻系统托盘。按住 Alt 在任意位置拖动即可发信号。
 
